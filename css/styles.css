@@ -1,0 +1,13 @@
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	text-align: center;
+}
+
+canvas {
+	outline: 1px solid pink;
+	margin: 40px auto;
+}
